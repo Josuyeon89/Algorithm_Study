@@ -1,3 +1,11 @@
+기약분수 만들기 위해서는 최대공약수 구해야하니까 for문에서 큰수->작은수 로 나눠줘야 함.
+
+d<n, d>n 으로 나누지 않고 int x=Math.min(d,n);으로 비교하는 방법이 훨씬 간단.
+=> 시간복잡도 O(N)
+
+제일 간단한거: 유클리드 호제법 - 최대공약수 구하는 알고리즘
+=> 시간복잡도 O(log N)
+
 # [level 0] 분수의 덧셈 - 120808 
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120808) 
