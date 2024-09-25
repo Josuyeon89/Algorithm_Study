@@ -1,19 +1,10 @@
-isBlank(): Null + white space
-
-isEmpty(): Null
-
-
-str.contains("~~"): str 문자열 안에 ~~ 내용이 포함되어 있는지 -> boolean값
-
-str.replace("~", "."): str 문자열에서 ~를 .으로 바꿈
-
 # [level 0] 옹알이 (1) - 120956 
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120956) 
 
 ### 성능 요약
 
-메모리: 75.9 MB, 시간: 0.84 ms
+메모리: 75.3 MB, 시간: 1.30 ms
 
 ### 구분
 
@@ -25,7 +16,7 @@ str.replace("~", "."): str 문자열에서 ~를 .으로 바꿈
 
 ### 제출 일자
 
-2024년 09월 10일 14:33:13
+2024년 09월 25일 14:58:11
 
 ### 문제 설명
 
